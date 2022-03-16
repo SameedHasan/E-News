@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Simone McCarthy and Tim Lister, CNN",
+      "title": "Battle moves into Kyiv as Ukrainians fight to keep control of their capital - CNN",
+      "description": "War arrived on the streets of the Ukrainian capital city Kyiv Saturday, as the country's military battled to hold back advancing Russian troops in multiple locations, forcing residents to seek shelter amid the sound of explosions and gunfire.",
+      "url": "https://www.cnn.com/2022/02/26/europe/ukraine-russia-invasion-saturday-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220225183542-kyiv-smoke-flames-0226-super-tease.jpg",
+      "publishedAt": "2022-02-26T06:32:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Joe Mcdonald",
+      "title": "China is Russia's best hope to blunt sanctions, but wary - Associated Press",
+      "description": "BEIJING (AP) — China is the only friend that might help Russia blunt the impact of economic sanctions over its invasion of Ukraine , but President Xi Jinping’s government is giving no sign it might be willing to risk its own access to U.S.",
+      "url": "https://apnews.com/article/russia-ukraine-vladimir-putin-business-china-beijing-0cddcb31f04748a3de8f36b5cd1ac7df",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/51dcc2cab51841bb888d2d97714b557b/3000.jpeg",
+      "publishedAt": "2022-02-26T05:21:10Z",
+      "content": "BEIJING (AP) China is the only friend that might help Russia blunt the impact of economic sanctions over its invasion of Ukraine, but President Xi Jinpings government is giving no sign it might be wi… [+6857 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Gabrielle Fonrouge, Jesse O’Neill",
+      "title": "Jussie Smollett files motion to throw out his guilty verdict for staging hate crime - New York Post ",
+      "description": "Jussie Smollett’s lawyers asked a Chicago judge Friday to toss out his conviction for staging a hate crime — or grant him a new trial — claiming that his constitutional rights wer…",
+      "url": "https://nypost.com/2022/02/26/jussie-smolletts-lawyers-ask-judge-to-throw-out-conviction-due-to-errors-in-trial/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/jussie-smollett-index.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2022-02-26T05:15:00Z",
+      "content": "Jussie Smollett’s lawyers asked a Chicago judge Friday to toss out his conviction for staging a hate crime — or grant him a new trial — claiming that his constitutional rights were violated by the co… [+3428 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Nintendo Life" },
+      "author": "Liam Doolan",
+      "title": "Round Up: The Reviews Of Valve's Steam Deck Are In - What's It Like Compared To Switch? - Nintendo Life",
+      "description": "The critics deliver their final verdict",
+      "url": "https://www.nintendolife.com/news/2022/02/round-up-the-reviews-of-valves-steam-deck-are-in-whats-it-like-compared-to-switch",
+      "urlToImage": "https://images.nintendolife.com/b5f310df7bee5/1280x720.jpg",
+      "publishedAt": "2022-02-26T04:45:00Z",
+      "content": "Image: Valve\r\nValve's new portable gaming computer the Steam Deck might be \"going after\" a completely different audience but it's still drawn plenty of comparisons to the Nintendo Switch.\r\nThe final … [+4953 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "James Harden's 76ers debut was a 'PERFECT STORM' - Jalen Rose | NBA on ESPN - ESPN",
+      "description": "Jalen Rose reacts to James Harden's Philadelphia 76ers debut vs. the Minnesota Timberwolves.✔️Subscribe to ESPN+ http://espnplus.com/youtube✔️ Get the ESPN A...",
+      "url": "https://www.youtube.com/watch?v=lQv8wmHyd7k",
+      "urlToImage": "https://i.ytimg.com/vi/lQv8wmHyd7k/hqdefault.jpg",
+      "publishedAt": "2022-02-26T04:32:55Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Maria Cartaya and Dakin Andone, CNN",
+      "title": "Curtis Reeves, retired police captain who fatally shot man in movie theater, acquitted - CNN",
+      "description": "A Florida jury acquitted retired Florida police captain Curtis Reeves in the shooting death of a man in a movie theater eight years ago.",
+      "url": "https://www.cnn.com/2022/02/25/us/curtis-reeves-murder-trial-jury-deliberations/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220225163011-curtis-reeves-trial-0225-super-tease.jpg",
+      "publishedAt": "2022-02-26T03:52:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News Staff",
+      "title": "Harmeet Dhillon blasts Biden's SCOTUS selection process: 'He is beholden to the left' - Fox News",
+      "description": "CEO and founder of the Center for American Liberty slams Biden's process on selecting a SCOTUS nominee.",
+      "url": "https://www.foxnews.com/media/harmeet-dhillon-blasts-biden-on-scotus-pick",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/96bf6500-b363-4065-bed9-827f4ae83cb4/db11f1f3-9df7-415d-9837-50cb2a95cc45/1280x720/match/image.jpg",
+      "publishedAt": "2022-02-26T03:37:49Z",
+      "content": "Tucker Carlson Tonight host Tucker Carlson asked legal expert Harmeet Dhillon to weigh in on the \"destructive\" nature behind the way that President Biden has chosen his Supreme Court nominee.\r\nHARMEE… [+761 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bitcoin Magazine" },
+      "author": "Dylan LeClair And Sam Rule",
+      "title": "Bitcoin Price And Other Markets React To Russia Ukraine Invasion - Bitcoin Magazine",
+      "description": "Bitcoin short squeeze boosts the price while risk assets trade as if maximum fear and uncertainty are priced in after the declarations of war.",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-reacts-to-russia-ukraine-invasion",
+      "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTg1MDk0MzA2Njg2OTY5MTEz/ukraine2.png",
+      "publishedAt": "2022-02-26T03:30:00Z",
+      "content": "The below is from a recent edition of the Deep Dive, Bitcoin Magazine's premium markets newsletter. To be among the first to receive these insights and other on-chain bitcoin market analysis straight… [+1745 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Farnaz Fassihi",
+      "title": "Russia vetoes a U.N. Security Council resolution calling on it to withdraw from Ukraine. - The New York Times",
+      "description": "Eleven countries voted in favor of the U.S.-backed measure, and three abstained.",
+      "url": "https://www.nytimes.com/2022/02/25/world/europe/united-nations-russia-withdraw-ukraine.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-vid-UN/25ukraine-vid-UN-facebookJumbo.jpg",
+      "publishedAt": "2022-02-26T03:25:00Z",
+      "content": "Against the backdrop of five successive rounds of NATO expansion, Russias legitimate security aspiration should be given attention and addressed properly, said Chinas ambassador, Zhang Jun. Ukraine s… [+2214 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MLB.com" },
+      "author": "Mark Feinsand",
+      "title": "Progress on Draft lottery in latest MLB, MLBPA talks - MLB.com",
+      "description": "Major League Baseball and the MLB Players Association met for a fifth straight day of bargaining Friday in Jupiter, Fla., and although the two sides remain far apart on a number of issues, there were signs of progress.\nAccording to a league source, the two si…",
+      "url": "https://www.mlb.com/news/progress-on-draft-lottery-in-latest-mlb-mlbpa-talks",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/dupklmolxepsggidx9s7.jpg",
+      "publishedAt": "2022-02-26T03:22:57Z",
+      "content": "Major League Baseball and the MLB Players Association met for a fifth straight day of bargaining Friday in Jupiter, Fla., and although the two sides remain far apart on a number of issues, there were… [+2623 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "8 Minutes Of Elden Ring Running On Steam Deck - GameSpot",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db2yQGgWehqs",
+      "urlToImage": null,
+      "publishedAt": "2022-02-26T02:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Brooke Singman",
+      "title": "Pompeo says he is 'rooting' for the Biden administration, despite 'very different worldview' - Fox News",
+      "description": "Former Secretary of State Mike Pompeo told Fox News on Friday that Secretary of State Antony Blinken has consulted with him, and while the two have \"very different worldview,\" they have a \"shared desire\" to make the United States \"strong and great.\"",
+      "url": "https://www.foxnews.com/politics/pompeo-says-he-is-rooting-for-the-biden-administration-despite-very-different-worldview",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Mike-Pompeo.jpg",
+      "publishedAt": "2022-02-26T02:44:24Z",
+      "content": "ORLANDO, Fla. Former Secretary of State Mike Pompeo told Fox News on Friday that Secretary of State Antony Blinken has consulted with him, and while the two have \"very different worldview,\" they have… [+3628 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Life" },
+      "author": "James Vituscka",
+      "title": "Jason Momoa & Lisa Bonet Are Living Together Again & Working On Repairing Their Marriage - HollywoodLife",
+      "description": "Jason Momoa and Lisa Bonet are calling off their divorce and their kids are 'thrilled,' a friend tells HollywoodLife EXCLUSIVELY.",
+      "url": "https://hollywoodlife.com/2022/02/25/jason-momoa-lisa-bonet-call-off-divorce-living-together/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2022/02/Jason-Momoa-Lisa-Bonet-Living-Together-Again-Working-On-Repairing-Their-Marriage-After-Split-FTR.jpg",
+      "publishedAt": "2022-02-26T02:20:00Z",
+      "content": "Jason Momoa and Lisa Bonet are calling off their divorce and their kids are ‘thrilled,’ a friend tells HollywoodLife EXCLUSIVELY.\r\nJason Momoa, 42, and Lisa Bonet, 54, have decided to give their marr… [+2243 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Andrew Higgins",
+      "title": "At the Polish Border, Tens of Thousands of Ukrainian Refugees - The New York Times",
+      "description": "They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons.",
+      "url": "https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-refugees-1/25ukraine-refugees-1-facebookJumbo.jpg",
+      "publishedAt": "2022-02-26T01:45:02Z",
+      "content": "Just across the border from Lviv, at the railway station in the Polish town of Przemysl, what could well be the last train from Kyiv arrived seven hours late, disgorging around 500 people, mostly wom… [+993 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Apoorva Mandavilli",
+      "title": "New C.D.C. Guidelines Suggest 70 Percent of Americans Can Stop Wearing Masks - The New York Times",
+      "description": "The agency issued a new set of recommendations intended to help communities live with the virus and get back to normal life.",
+      "url": "https://www.nytimes.com/2022/02/25/health/cdc-mask-guidance.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/25/science/25virus-masks-topart/25virus-masks-topart-facebookJumbo.jpg",
+      "publishedAt": "2022-02-26T01:25:29Z",
+      "content": "It just looked wrong that the whole country was a single shade of red, said Jennifer Nuzzo, an epidemiologist at Johns Hopkins Universitys Bloomberg School of Public Health.\r\nThough a growing number … [+1997 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Meredith Deliso",
+      "title": "Ukrainian leaders vow to arm themselves as Russian troops close in on Kyiv - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/International/ukrainian-leaders-vow-arm-russian-troops-close-kyiv/story?id=83115636",
+      "urlToImage": "https://s.abcnews.com/images/International/Zelenskyy-1-ht-er-220225_1645811058972_hpMain_16x9_992.jpg",
+      "publishedAt": "2022-02-26T01:05:26Z",
+      "content": "As Russian troops closed in on Ukraine's capital Friday and thousands of refugees continued to flee the country, several Ukrainian officials vowed to remain in Kyiv and fight against the aggression.\r… [+4330 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "U.S. sanctions Russia's Putin, top officials over Ukraine invasion - Reuters",
+      "description": "The U.S. government on Friday joined European countries in slapping sanctions on Russian President Vladimir Putin and Foreign Minister Sergei Lavrov as Western nations sought to increase pressure on Moscow to halt its invasion of Ukraine.",
+      "url": "https://www.reuters.com/world/us-expected-impose-sanctions-russias-putin-soon-friday-cnn-2022-02-25/",
+      "urlToImage": "https://www.reuters.com/resizer/gWLWCLV-ysq92Ml09xiEiQLBJGY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FS2K2F6V3ZL5BJ5YJV4XDROHLE.jpg",
+      "publishedAt": "2022-02-26T00:47:00Z",
+      "content": "Feb 25 (Reuters) - The U.S. government on Friday joined European countries in slapping sanctions on Russian President Vladimir Putin and Foreign Minister Sergei Lavrov as Western nations sought to in… [+4900 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "Lauren Huff",
+      "title": "AnnaLynne McCord explains her viral Vladimir Putin poem - EW.com",
+      "description": "\"I could easily have moved in the direction of becoming a dictator myself,\" the <em>90210</em> actress says.",
+      "url": "https://ew.com/celebrity/annalynne-mccord-explains-viral-putin-poem/",
+      "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C100%2C1952%2C1076&poi=%5B900%2C573%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F02%2F25%2FAnnalynne-McCord.jpg",
+      "publishedAt": "2022-02-26T00:02:00Z",
+      "content": "90210 and Nip/Tuck alum AnnaLynne McCord has opened up about the perplexing poem she shared in a video addressed to \"Dear Mister President Vladimir Putin\" on Thursday, as Russian forces invaded Ukrai… [+1588 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Leah Asmelash, CNN",
+      "title": "Top Russian tennis stars speak out against war in Ukraine - CNN",
+      "description": "Two top-10 Russian tennis stars, including world No. 1 Daniil Medvedev, have spoken up against their country's attack in Ukraine this week.",
+      "url": "https://www.cnn.com/2022/02/25/world/ukraine-daniil-medvedev-andrey-rublev-tennis-russia-cec-spt/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220225151521-medvedev-rublev-split-super-tease.jpg",
+      "publishedAt": "2022-02-25T23:51:00Z",
+      "content": "(CNN)Two top-10 Russian tennis stars, including world No. 1 Daniil Medvedev, have addressed their country's invasion of Ukraine this week. \r\nSpeaking on Thursday, Medvedev, who won the US Open last y… [+1631 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Hannah Natanson",
+      "title": "Judge calls Thomas Jefferson High admissions changes illegal - The Washington Post",
+      "description": "A federal judge has ruled in the parent-brought lawsuit against Fairfax County Public Schools over changes the its admissions policy for Thomas Jefferson High School.",
+      "url": "https://www.washingtonpost.com/education/2022/02/25/judge-thomas-jefferson-high-admissions/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FGX4RUBY2YI6XPDIS2XQ3KXHFA.jpg&w=1440",
+      "publishedAt": "2022-02-25T23:48:20Z",
+      "content": "Hilton wrote that emails and text messages between Board members and high-ranking FCPS officials leave no material dispute that, at least in part, the purpose of the Boards admissions overhaul was to… [+6236 chars]"
+    }
+  ]
+}
